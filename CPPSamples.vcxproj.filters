@@ -15,8 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPPSamples.cpp">
+    <ClCompile Include="Sample1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Sample2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sample3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample5.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sample2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

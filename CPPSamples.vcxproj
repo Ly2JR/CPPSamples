@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPPSamples.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Sample1.cpp" />
+    <ClCompile Include="Sample2.cpp" />
+    <ClCompile Include="sample3.cpp" />
+    <ClCompile Include="Sample4.cpp" />
+    <ClCompile Include="Sample5.cpp" />
+    <ClCompile Include="Sample5.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Sample1.h" />
+    <ClInclude Include="Sample2.h" />
+    <ClInclude Include="Sample3.h" />
+    <ClInclude Include="Sample4.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
