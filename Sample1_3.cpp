@@ -1,8 +1,8 @@
 #include<iostream>
-#include "sample3.h"
+#include "sample1_3.h"
 using namespace std;
 
-void sample3() {
+void sample1_3() {
 	double *p;  //声明double型指针
 	p = new double[3];
 	cout << "请输入三个数(以空格区分)";

@@ -1,8 +1,8 @@
 ﻿#include <iostream>
-#include "Sample1.h"
+#include "Sample1_1.h"
 using namespace std;
 
-void sample1() {
+void sample1_1() {
     int z(0), b(50);
     Point a;
     cout << "输入两个整数(以空格区分):";

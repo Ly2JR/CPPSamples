@@ -13,42 +13,90 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Caption1">
+      <UniqueIdentifier>{09dac931-7f3c-4e92-9d35-e8e9d3f16dcc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Caption1">
+      <UniqueIdentifier>{bfa34353-47b7-46e0-a8bc-03b501718f3b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sample1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="Sample2.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sample3.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="Sample1_1.cpp">
+      <Filter>源文件\Caption1</Filter>
     </ClCompile>
-    <ClCompile Include="Sample4.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="Sample1_2.cpp">
+      <Filter>源文件\Caption1</Filter>
     </ClCompile>
-    <ClCompile Include="Sample5.h">
-      <Filter>头文件</Filter>
+    <ClCompile Include="Sample1_3.cpp">
+      <Filter>源文件\Caption1</Filter>
     </ClCompile>
-    <ClCompile Include="Sample5.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="Sample1_4.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_5.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_5.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_6.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_7.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_8.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_9.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_10.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_11.cpp">
+      <Filter>源文件\Caption1</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample1_12.cpp">
+      <Filter>源文件\Caption1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sample2.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="Sample1_1.h">
+      <Filter>头文件\Caption1</Filter>
     </ClInclude>
-    <ClInclude Include="Sample1.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="Sample1_2.h">
+      <Filter>头文件\Caption1</Filter>
     </ClInclude>
-    <ClInclude Include="Sample3.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="Sample1_3.h">
+      <Filter>头文件\Caption1</Filter>
     </ClInclude>
-    <ClInclude Include="Sample4.h">
-      <Filter>头文件</Filter>
+    <ClInclude Include="Sample1_4.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_6.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_7.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_8.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_9.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_10.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_11.h">
+      <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample1_12.h">
+      <Filter>头文件\Caption1</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

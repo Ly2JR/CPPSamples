@@ -104,6 +104,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -128,18 +130,32 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Sample1.cpp" />
-    <ClCompile Include="Sample2.cpp" />
-    <ClCompile Include="sample3.cpp" />
-    <ClCompile Include="Sample4.cpp" />
-    <ClCompile Include="Sample5.cpp" />
-    <ClCompile Include="Sample5.h" />
+    <ClCompile Include="Sample1_10.cpp" />
+    <ClCompile Include="Sample1_11.cpp" />
+    <ClCompile Include="Sample1_12.cpp" />
+    <ClCompile Include="Sample1_6.cpp" />
+    <ClCompile Include="Sample1_1.cpp" />
+    <ClCompile Include="Sample1_2.cpp" />
+    <ClCompile Include="Sample1_3.cpp" />
+    <ClCompile Include="Sample1_4.cpp" />
+    <ClCompile Include="Sample1_5.cpp" />
+    <ClCompile Include="Sample1_5.h" />
+    <ClCompile Include="Sample1_7.cpp" />
+    <ClCompile Include="Sample1_8.cpp" />
+    <ClCompile Include="Sample1_9.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sample1.h" />
-    <ClInclude Include="Sample2.h" />
-    <ClInclude Include="Sample3.h" />
-    <ClInclude Include="Sample4.h" />
+    <ClInclude Include="Sample1_1.h" />
+    <ClInclude Include="Sample1_10.h" />
+    <ClInclude Include="Sample1_11.h" />
+    <ClInclude Include="Sample1_12.h" />
+    <ClInclude Include="Sample1_2.h" />
+    <ClInclude Include="Sample1_3.h" />
+    <ClInclude Include="Sample1_4.h" />
+    <ClInclude Include="Sample1_6.h" />
+    <ClInclude Include="Sample1_7.h" />
+    <ClInclude Include="Sample1_8.h" />
+    <ClInclude Include="Sample1_9.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

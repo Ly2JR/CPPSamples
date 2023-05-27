@@ -5,4 +5,4 @@
 int max(int, int);
 int max(int, int, int);
 
-void sample2();
+void sample1_2();

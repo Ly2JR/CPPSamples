@@ -11,4 +11,4 @@ struct Point {
     int x, y;
 };
 
-void sample1();
+void sample1_1();

@@ -1,8 +1,8 @@
 #include<iostream>
-#include "Sample2.h"
+#include "Sample1_2.h"
 using namespace std;
 
-void sample2() {
+void sample1_2() {
 	cout << max(35, 25) << "," << max(25, 39, 35) << endl;
 }
 
