@@ -1,4 +1,5 @@
 #include<iostream>
+#pragma region Caption1
 #include "Sample1_1.h"
 #include "Sample1_2.h"
 #include "Sample1_3.h"
@@ -11,6 +12,15 @@
 #include "Sample1_10.h"
 #include "Sample1_11.h"
 #include"Sample1_12.h"
+#pragma endregion
+#pragma region Caption2
+#include "Sample2_1.h"
+#include "Sample2_2.h"
+#include "Sample2_3.h"
+#include "Sample2_4.h"
+#pragma endregion
+
+
 using namespace std;
 
 void main() {
@@ -18,15 +28,19 @@ void main() {
 	sample1_2();
 	sample1_3();
 	sample1_4();
-	sample1_5();*/
-	//sample1_6();
-	//sample1_7();
-	//sample1_8();
-	//sample1_9();
-	//sample1_10();
-	//sample1_11();
-	sample1_12();
+	sample1_5();
+	sample1_6();
+	sample1_7();
+	sample1_8();
+	sample1_9();
+	sample1_10();
+	sample1_11();
+	sample1_12();*/
 
+	//sample2_1();
+	//sample2_2();
+	//sample2_3();
+	sample2_4();
 
 #pragma region  ÷∏’Î
 

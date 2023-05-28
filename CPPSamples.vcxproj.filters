@@ -19,6 +19,12 @@
     <Filter Include="头文件\Caption1">
       <UniqueIdentifier>{bfa34353-47b7-46e0-a8bc-03b501718f3b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\Caption2">
+      <UniqueIdentifier>{7198f55d-2d46-4e69-bdd3-948eb8708837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Caption2">
+      <UniqueIdentifier>{06c9ec0d-33a0-4a0b-bf61-10c0d443cd32}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -63,6 +69,18 @@
     <ClCompile Include="Sample1_12.cpp">
       <Filter>源文件\Caption1</Filter>
     </ClCompile>
+    <ClCompile Include="Sample2_1.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_2.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_3.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_4.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sample1_1.h">
@@ -97,6 +115,18 @@
     </ClInclude>
     <ClInclude Include="Sample1_12.h">
       <Filter>头文件\Caption1</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_1.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_2.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_3.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_4.h">
+      <Filter>头文件\Caption2</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
