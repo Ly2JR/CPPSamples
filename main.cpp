@@ -18,6 +18,12 @@
 #include "Sample2_2.h"
 #include "Sample2_3.h"
 #include "Sample2_4.h"
+#include "Sample2_8.h"
+#include "Sample2_9.h"
+#include "Sample2_10.h"
+#include"Sample2_11.h"
+#include"Sample2_12.h"
+#include "Sample2_13.h"
 #pragma endregion
 
 
@@ -40,7 +46,13 @@ void main() {
 	//sample2_1();
 	//sample2_2();
 	//sample2_3();
-	sample2_4();
+	//sample2_4();
+	//sample2_8();
+	//sample2_9();
+	//sample2_10();
+	//sample2_11();
+	//sample2_12();
+	sample2_13();
 
 #pragma region  ÷∏’Î
 

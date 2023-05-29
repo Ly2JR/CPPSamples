@@ -81,6 +81,24 @@
     <ClCompile Include="Sample2_4.cpp">
       <Filter>源文件\Caption2</Filter>
     </ClCompile>
+    <ClCompile Include="Sample2_8.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_9.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_10.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_11.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_12.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample2_13.cpp">
+      <Filter>源文件\Caption2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sample1_1.h">
@@ -126,6 +144,24 @@
       <Filter>头文件\Caption2</Filter>
     </ClInclude>
     <ClInclude Include="Sample2_4.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_8.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_9.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_10.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_11.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_12.h">
+      <Filter>头文件\Caption2</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample2_13.h">
       <Filter>头文件\Caption2</Filter>
     </ClInclude>
   </ItemGroup>

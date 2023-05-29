@@ -144,9 +144,15 @@
     <ClCompile Include="Sample1_8.cpp" />
     <ClCompile Include="Sample1_9.cpp" />
     <ClCompile Include="Sample2_1.cpp" />
+    <ClCompile Include="Sample2_10.cpp" />
+    <ClCompile Include="Sample2_11.cpp" />
+    <ClCompile Include="Sample2_12.cpp" />
+    <ClCompile Include="Sample2_13.cpp" />
     <ClCompile Include="Sample2_2.cpp" />
     <ClCompile Include="Sample2_3.cpp" />
     <ClCompile Include="Sample2_4.cpp" />
+    <ClCompile Include="Sample2_8.cpp" />
+    <ClCompile Include="Sample2_9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sample1_1.h" />
@@ -161,9 +167,15 @@
     <ClInclude Include="Sample1_8.h" />
     <ClInclude Include="Sample1_9.h" />
     <ClInclude Include="Sample2_1.h" />
+    <ClInclude Include="Sample2_10.h" />
+    <ClInclude Include="Sample2_11.h" />
+    <ClInclude Include="Sample2_12.h" />
+    <ClInclude Include="Sample2_13.h" />
     <ClInclude Include="Sample2_2.h" />
     <ClInclude Include="Sample2_3.h" />
     <ClInclude Include="Sample2_4.h" />
+    <ClInclude Include="Sample2_8.h" />
+    <ClInclude Include="Sample2_9.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
