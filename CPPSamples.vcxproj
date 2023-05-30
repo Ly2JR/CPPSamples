@@ -153,8 +153,21 @@
     <ClCompile Include="Sample2_4.cpp" />
     <ClCompile Include="Sample2_8.cpp" />
     <ClCompile Include="Sample2_9.cpp" />
+    <ClCompile Include="Sample3_1.cpp" />
+    <ClCompile Include="Sample3_2.cpp" />
+    <ClCompile Include="Sample3_2.h" />
+    <ClCompile Include="Sample3_3.cpp" />
+    <ClCompile Include="Sample3_4.cpp" />
+    <ClCompile Include="Sample3_4.h" />
+    <ClCompile Include="Sample3_5.cpp" />
+    <ClCompile Include="Sample3_6.cpp" />
+    <ClCompile Include="Sample3_7.cpp" />
+    <ClCompile Include="Sample3_8.cpp" />
+    <ClCompile Include="Sample3_9.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Sample3_9.h" />
+    <ClInclude Include="Sample3_6.h" />
     <ClInclude Include="Sample1_1.h" />
     <ClInclude Include="Sample1_10.h" />
     <ClInclude Include="Sample1_11.h" />
@@ -176,6 +189,11 @@
     <ClInclude Include="Sample2_4.h" />
     <ClInclude Include="Sample2_8.h" />
     <ClInclude Include="Sample2_9.h" />
+    <ClInclude Include="Sample3_1.h" />
+    <ClInclude Include="Sample3_3.h" />
+    <ClInclude Include="Sample3_5.h" />
+    <ClInclude Include="Sample3_7.h" />
+    <ClInclude Include="Sample3_8.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

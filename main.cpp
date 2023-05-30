@@ -1,29 +1,40 @@
 #include<iostream>
 #pragma region Caption1
-#include "Sample1_1.h"
-#include "Sample1_2.h"
-#include "Sample1_3.h"
-#include "Sample1_4.h"
-#include "Sample1_5.h"
-#include "Sample1_6.h"
-#include"Sample1_7.h"
-#include"Sample1_8.h"
-#include "Sample1_9.h"
-#include "Sample1_10.h"
-#include "Sample1_11.h"
-#include"Sample1_12.h"
+//#include "Sample1_1.h"
+//#include "Sample1_2.h"
+//#include "Sample1_3.h"
+//#include "Sample1_4.h"
+//#include "Sample1_5.h"
+//#include "Sample1_6.h"
+//#include"Sample1_7.h"
+//#include"Sample1_8.h"
+//#include "Sample1_9.h"
+//#include "Sample1_10.h"
+//#include "Sample1_11.h"
+//#include"Sample1_12.h"
 #pragma endregion
 #pragma region Caption2
-#include "Sample2_1.h"
-#include "Sample2_2.h"
-#include "Sample2_3.h"
-#include "Sample2_4.h"
-#include "Sample2_8.h"
-#include "Sample2_9.h"
-#include "Sample2_10.h"
-#include"Sample2_11.h"
-#include"Sample2_12.h"
-#include "Sample2_13.h"
+//#include "Sample2_1.h"
+//#include "Sample2_2.h"
+//#include "Sample2_3.h"
+//#include "Sample2_4.h"
+//#include "Sample2_8.h"
+//#include "Sample2_9.h"
+//#include "Sample2_10.h"
+//#include"Sample2_11.h"
+//#include"Sample2_12.h"
+//#include "Sample2_13.h"
+#pragma endregion
+#pragma region Caption3
+#include"Sample3_1.h"
+#include "Sample3_2.h"
+#include "Sample3_3.h"
+#include "Sample3_4.h"
+#include "Sample3_5.h"
+#include "Sample3_6.h"
+#include "Sample3_7.h"
+#include "Sample3_8.h"
+#include "Sample3_9.h"
 #pragma endregion
 
 
@@ -52,7 +63,17 @@ void main() {
 	//sample2_10();
 	//sample2_11();
 	//sample2_12();
-	sample2_13();
+	//sample2_13();
+
+	//sample3_1();
+	//sample3_2();
+	//sample3_3();
+	//sample3_4();
+	//sample3_5();
+	//sample3_6();
+	//sample3_7();
+	//sample3_8();
+	sample3_9();
 
 #pragma region  ÷∏’Î
 
