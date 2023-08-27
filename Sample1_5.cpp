@@ -1,5 +1,5 @@
-#include<iostream>;
-#include"Sample1_5.h";
+#include<iostream>
+#include"Sample1_5.h"
 using namespace std;
 
 

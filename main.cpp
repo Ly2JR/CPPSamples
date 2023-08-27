@@ -1,4 +1,7 @@
 #include<iostream>
+
+using namespace std;
+
 #pragma region Caption1
 //#include "Sample1_1.h"
 //#include "Sample1_2.h"
@@ -26,21 +29,29 @@
 //#include "Sample2_13.h"
 #pragma endregion
 #pragma region Caption3
-#include"Sample3_1.h"
-#include "Sample3_2.h"
-#include "Sample3_3.h"
-#include "Sample3_4.h"
-#include "Sample3_5.h"
-#include "Sample3_6.h"
-#include "Sample3_7.h"
-#include "Sample3_8.h"
-#include "Sample3_9.h"
+//#include "Sample3_1.h"
+//#include "Sample3_2.h"
+//#include "Sample3_3.h"
+//#include "Sample3_4.h"
+//#include "Sample3_5.h"
+//#include "Sample3_6.h"
+//#include "Sample3_7.h"
+//#include "Sample3_8.h"
+//#include "Sample3_9.h"
+//#include "Sample3_10.h"
+//#include "Sample3_11.h"
+//#include "Sample3_11_1.h"
+//#include "Sample3_12.h"
+//#include "Sample3_13.h"
+//#include "Sample3_14.h"
+//#include "Sample3_15.h"
+//#include "Sample3_16.h"
+//#include "sample3_17.h"
 #pragma endregion
 
 
-using namespace std;
 
-void main() {
+int main() {
 	/*sample1_1();
 	sample1_2();
 	sample1_3();
@@ -73,7 +84,18 @@ void main() {
 	//sample3_6();
 	//sample3_7();
 	//sample3_8();
-	sample3_9();
+	//sample3_9();
+	//sample3_10();
+	//sample3_11();
+	//sample3_11_1();
+	//sample3_12();
+	//sample3_13();
+	//sample3_14();
+	//sample3_15();
+	//sample3_16();
+	//sample3_17();
+
+	
 
 #pragma region  指针
 
@@ -97,4 +119,5 @@ void main() {
 	////*p3 = 3;//表达式是必须可以修改的左值,
 #pragma endregion
 
+	return 0;
 }

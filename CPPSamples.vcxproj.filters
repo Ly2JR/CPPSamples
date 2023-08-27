@@ -33,9 +33,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Sample1_1.cpp">
       <Filter>源文件\Caption1</Filter>
     </ClCompile>
@@ -138,6 +135,42 @@
     <ClCompile Include="Sample3_9.cpp">
       <Filter>源文件\Caption3</Filter>
     </ClCompile>
+    <ClCompile Include="Sample3_10.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_11.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_11_1.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_11_1.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_12.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_13.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="sample3_14.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_15.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_16.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="sample3_17.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="Sample3_17.cpp">
+      <Filter>源文件\Caption3</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sample1_1.h">
@@ -224,5 +257,29 @@
     <ClInclude Include="Sample3_9.h">
       <Filter>头文件\Caption3</Filter>
     </ClInclude>
+    <ClInclude Include="Sample3_10.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3_11.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3_12.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3_13.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3_14.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3_15.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+    <ClInclude Include="Sample3_16.h">
+      <Filter>头文件\Caption3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
