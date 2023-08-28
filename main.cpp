@@ -48,10 +48,14 @@ using namespace std;
 //#include "Sample3_16.h"
 //#include "sample3_17.h"
 #pragma endregion
-
+#pragma region Caption4
+//#include "Sample4_1.h"
+#include "Sample4_3.h"
+#pragma endregion
 
 
 int main() {
+#pragma region Caption1
 	/*sample1_1();
 	sample1_2();
 	sample1_3();
@@ -64,7 +68,10 @@ int main() {
 	sample1_10();
 	sample1_11();
 	sample1_12();*/
+#pragma endregion
 
+	
+#pragma region Caption2
 	//sample2_1();
 	//sample2_2();
 	//sample2_3();
@@ -75,7 +82,10 @@ int main() {
 	//sample2_11();
 	//sample2_12();
 	//sample2_13();
+#pragma endregion
 
+	
+#pragma region  Caption3
 	//sample3_1();
 	//sample3_2();
 	//sample3_3();
@@ -94,8 +104,13 @@ int main() {
 	//sample3_15();
 	//sample3_16();
 	//sample3_17();
+#pragma endregion
 
-	
+#pragma region  Caption4
+	//sample4_1();
+	sample4_3();
+#pragma endregion
+
 
 #pragma region  ÷∏’Î
 

@@ -175,6 +175,9 @@
     <ClCompile Include="Sample3_7.cpp" />
     <ClCompile Include="Sample3_8.cpp" />
     <ClCompile Include="Sample3_9.cpp" />
+    <ClCompile Include="Sample4_1.cpp" />
+    <ClCompile Include="Sample4_3.cpp" />
+    <ClCompile Include="Sample4_3.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sample3_10.h" />
@@ -212,6 +215,7 @@
     <ClInclude Include="Sample3_5.h" />
     <ClInclude Include="Sample3_7.h" />
     <ClInclude Include="Sample3_8.h" />
+    <ClInclude Include="Sample4_1.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
